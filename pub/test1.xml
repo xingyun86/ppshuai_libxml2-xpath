@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root name="test">
+        <content>
+                <pro id="moonApple"><![CDATA[<say>i still have lots to work on</say>]]></pro>
+                <details>
+                        <detail name="dancing">like it</detail>
+                        <detail name="singing">poor , just listen</detail>
+                        <detail name="laugh"/>
+                        <detail name="eating"><![CDATA[<food>candy</food>]]></detail>
+                </details>
+        </content>
+</root>
